@@ -7,11 +7,6 @@ Anon is a fully responsive eCommerce website designed for optimal compatibility 
 - [Demo](#demo)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Demo
 
