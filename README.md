@@ -1,11 +1,36 @@
-# Anon - An eCommerce Website
+# Anon - eCommerce Website
 
-Anon is a fully responsive ecommerce website, maximum compatiblities in all mobile devices, built using HTML, CSS, and JavaScript.
+Anon is a fully responsive eCommerce website designed for optimal compatibility across various devices, including desktops, tablets, and mobile phones. Built using HTML, CSS, and JavaScript, it offers a modern and user-friendly interface for online shopping.
+
+## Table of Contents
+
+- [Demo](#demo)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Getting Started](#getting-started)
+- [Screenshots](#screenshots)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
 ## Demo
 
-![Anon Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![Anon Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+You can view a live demo of the Anon eCommerce Website here: [Live Demo](http://127.0.0.1:5500/anon-ecommerce-website/index.html#)
+
+## Features
+
+- **Responsive Design:** Ensures a seamless experience across all devices.
+- **Modern UI/UX:** Clean and intuitive user interface for enhanced user experience.
+- **Product Listings:** Display products with images, descriptions, and prices.
+- **Navigation Bar:** Easy navigation with categories and search functionality.
+- **Footer Section:** Includes links to social media, contact information, and additional resources.
+
+## Technologies Used
+
+- **HTML5:** For structuring the web pages.
+- **CSS3:** For styling and layout.
+- **JavaScript:** For interactive elements and dynamic content.
+
 
 
 
